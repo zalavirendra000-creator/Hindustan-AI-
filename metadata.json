@@ -1,0 +1,6 @@
+{
+  "name": "Hindustan AI",
+  "description": "Hindustan AI - A helpful and friendly AI assistant created by Zala Virendra Sinh, supporting Hindi, Gujarati, and English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
